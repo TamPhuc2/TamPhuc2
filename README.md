@@ -1,5 +1,13 @@
-## Hi there 👋
-2
+# Hi there, I'm Tao Nguyen Tam Phuc 👋 
+
+I am a 3rd-year Computer Engineering student at Ho Chi Minh City University of Technology (VNU-HCMUT), passionate about developing real-time system design and edge artificial intelligence (TinyML) to build powerful and efficient data processing system.
+
+---
+### 📫 Contact Me
+* **Email:** [tntamphuc@email.com](mailto:tntamphuc@email.com)
+* **GitHub:** [github.com/TamPhuc2](https://github.com/TamPhuc2)
+
+
 <!--
 **TamPhuc2/TamPhuc2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
